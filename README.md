@@ -1,0 +1,2 @@
+# BMMdominio
+Script
