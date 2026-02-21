@@ -11,10 +11,10 @@ pkg install git
 pkg install python
 ```
 ```bash
-git clone https://github.com/Fenrir-00/investigar-web
+git clone https://github.com/AMM9838/investigar-web-web
 ```
 ```bash
-cd investigar-web
+cd BMMdominio
 ```
 ```bash
 python3 proyecto.py
